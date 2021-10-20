@@ -4,4 +4,4 @@ title: Resume2
 subtitle: Resume
 ---
 
-Hello 
+You can find my resume [here]({% link /assets/data/CV.pdf %})
