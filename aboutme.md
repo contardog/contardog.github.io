@@ -15,7 +15,7 @@ I actually look like this: test
 More likely like that when things no work
 ![nowork](assets/img/gaby2.png | width=100)
 
-I share some fashion style with the dog ![doggo](assets/img/dog.png | width=100)
+I share some fashion style with the dog ![doggo|50%](assets/img/dog.png)
 
 You can find my Google Scholar list of publications [here](https://scholar.google.com/citations?user=zUNlxp4AAAAJ&hl=en%). 
 
