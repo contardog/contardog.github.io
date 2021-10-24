@@ -11,13 +11,15 @@ I work at the intersection between **Machine Learning, Data Mining, and Astrophy
 
 You can find my Google Scholar list of publications [here](https://scholar.google.com/citations?user=zUNlxp4AAAAJ&hl=en%). 
 
-I actually look like this: test html 2
-<img src="/assets/img/gaby1.png" width="100">
+I actually look like this: 
+<img src="/assets/img/gaby1.png" width="150">
 
-![gaby](assets/img/gaby1.png)
 
 More likely like that when things no work
-![nowork](assets/img/gaby2.png)
 
-I share some fashion style with the dog ![doggo](assets/img/dog.png)
+<img src="/assets/img/gaby2.png" width="150">
+
+I also share some fashion style with this dog: 
+<img src="/assets/img/dog.png" width="150">
+
 
