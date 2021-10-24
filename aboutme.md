@@ -24,4 +24,6 @@ I also share some fashion style with this dog:
 
 <img src="/assets/img/dog.png" width="150">
 
-"I know nothing, I'm just sitting here looking at pretty colours"
+
+
+_I know nothing, I'm just sitting here looking at pretty colours_
