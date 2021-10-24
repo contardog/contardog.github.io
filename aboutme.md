@@ -11,8 +11,8 @@ I work at the intersection between **Machine Learning, Data Mining, and Astrophy
 
 You can find my Google Scholar list of publications [here](https://scholar.google.com/citations?user=zUNlxp4AAAAJ&hl=en%). 
 
-I actually look like this: test html 
-<img src="assets/img/gaby1.png" width="100">
+I actually look like this: test html 2
+<img src="/assets/img/gaby1.png" width="100">
 
 ![gaby](assets/img/gaby1.png)
 
