@@ -9,8 +9,8 @@ I am a Flatiron Research Fellow at the Center for Computational Astrophysics, Si
 {: style="text-align: justify" }
 I work at the intersection between **Machine Learning, Data Mining, and Astrophysics/Astronomy**. I develop Machine Learning and Data Mining tools that aim to provide new insights on data, to help deepen our understanding and potentially discover unknown or unexplained properties of the data and their underlying physics. Most recently, I have spent time working on **finding and characterizing gaps** in datasets, inspired by Topological Data Analysis. I am also interested in **representation learning** methods for tasks such as class-discovery, anomaly detection, and one-class classification, applied on complex data such as time-series or graphs/sets. I also spend time thinking about interpretability and understandability of Machine/Deep Learning methods for scientific discovery.
 
-I actually look like this:
-![gaby](assets/img/gaby1.png | width=100)
+I actually look like this: test
+<img src="assets/img/gaby1.png" alt="gaby" width="100">
 
 More likely like that when things no work
 ![nowork](assets/img/gaby2.png | width=100)
