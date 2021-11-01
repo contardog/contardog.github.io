@@ -15,6 +15,7 @@ author: Gaby Contardo
 
 navbar-links:
  # About Me: "aboutme"
+  Contact: "contact"
   Resume: "resume"
   Things: "blog"
 #   Resume: ""
