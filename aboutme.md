@@ -3,7 +3,9 @@ layout: page
 subtitle: About me
 ---
 {: style="text-align: justify" }
-**News**: I moved! I am now a Research Fellow at SISSA (Trieste, Italy) in the Theoretical and Scientific Data Science group since September 2022.
+**Newer news**: I am now a SMASH-MSCA fellow at the University of Nova Gorica (Slovenia), at the Center for Astrophysics and Cosmology, since September 2024.
+
+Sept 22: I moved! I am now a Research Fellow at SISSA (Trieste, Italy) in the Theoretical and Scientific Data Science group since September 2022.
 
 From July 2018 to July 2022, I was Flatiron Research Fellow at the Center for Computational Astrophysics, Simons Foundation, NY. Before that, I did my PhD in Computer Science and Machine Learning at Sorbonne Universite in Paris, France.
 
